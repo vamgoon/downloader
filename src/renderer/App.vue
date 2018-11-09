@@ -5,9 +5,9 @@
 </template>
 
 <script>
-  export default {
-    name: 'downloader',
-  };
+export default {
+    name: 'downloader'
+};
 </script>
 
 <style>
